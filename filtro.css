@@ -5,7 +5,7 @@ input {
 }
 
 #lista-de-productos {
-  display: flex
+  display: flex;
 }
 
 .producto {
@@ -20,5 +20,5 @@ input {
 
 .producto img {
   width: 70%;
-  height: auto
+  height: auto;
 }
